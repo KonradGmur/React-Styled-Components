@@ -1,2 +1,2 @@
-# React-Styled-Components
+# Redux-project
 Created with CodeSandbox
